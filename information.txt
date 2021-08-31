@@ -1,0 +1,6 @@
+numberplate:wb72e
+type:car
+color:red
+wheels:4
+vehicle id:1
+
